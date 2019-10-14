@@ -1,1 +1,1 @@
-print("three")
+print("three"\n"this is new line")
