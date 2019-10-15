@@ -1,3 +1,4 @@
 public class test{
-system.print.out("testing");
+System.out.println("testing");
+System.out.println("from dbda3")
 }
